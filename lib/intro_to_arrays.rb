@@ -7,5 +7,5 @@ def array_with_two_elements
 end
 
 def indexing(array, index)
-  
+  array[index]
 end
